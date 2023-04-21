@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Hanken-Book";
+    src: url("Hanken-Book.ttf") format("truetype"),
+        url("Hanken-Book.woff") format("woff"),
+        url("Hanken-Book.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Hanken-Light";
+    src: url("Hanken-Light.ttf") format("truetype"),
+        url("Hanken-Light.woff") format("woff"),
+        url("Hanken-Light.woff2") format("woff2");
+}
